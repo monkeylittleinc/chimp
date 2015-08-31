@@ -2,6 +2,9 @@
 chimpbook is a Chef cookbook generator using [chef-gen-flavors](https://rubygems.org/gems/chef-gen-flavors). You can use it out of the box as an opinionated way of creating new cookbooks, or modify it to meet your organization needs.
 
 It is heavily based on [pan](https://github.com/echohack/pan)
+- license :: [Apache2](http://www.apache.org/licenses/LICENSE-2.0)
+- gem version :: [![Gem Version](https://badge.fury.io/rb/chimpbook.png)](http://badge.fury.io/rb/chimpbook)
+- code climate :: [![Code Climate](https://codeclimate.com/github/monkeylittleinc/chimpbook/badges/gpa.svg)](https://codeclimate.com/github/monkeylittleinc/chimpbook)
 
 ## Features
 - Automatically create boilerplate files for cookbooks.
